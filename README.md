@@ -27,10 +27,9 @@ At the end it calculates the net, GST, PST and finally shows on screen all the d
 Invoice Number (PO)
 Customer number (Supplier)
 Customer name (Supplier)
-————————
 Items with the value of each
-———————- 
 Net
 GST
 PST
-Total  ---> [invoiceAndPurchaseOrders.py](invoiceAndPurchaseOrders.py)
+Total  
+---> [invoiceAndPurchaseOrders.py](invoiceAndPurchaseOrders.py)
