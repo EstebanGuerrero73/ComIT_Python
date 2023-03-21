@@ -44,3 +44,5 @@ Write the algorithm that allows reading and storing the requested data in vector
 • Percentage of men who work and average salary
 • Percentage of working women and average salary
 ---> [poll.py](poll.py)
+
+(**) Write a program that allows you to enter the height of 10 students, then show the average height, and how many elements are above average, how many are below average. ---> [students_heights.py](students_heights.py)
