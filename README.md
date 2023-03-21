@@ -17,3 +17,20 @@ Now let’s create an executable class:
 Create an array of Passwords with the size that you indicate by keyboard. Create a loop that creates an object for each position in the array. It also indicates by keyboard the length of the Passwords (before loop). Create another array of booleans where we store if the password of the password array is strong or not (use the previous loop). 
 At the end, we show the password and whether or not it is strong (use the previous loop). Use this simple format: password1 boolean_value1
 password2 boolean_value2. ---> [passwordClass.py](passwordClass.py)
+
+(**) Develop a program to generate invoices to customers and purchase orders from suppliers.
+The system displays a menu asking if you want to make an invoice or purchase order
+In case of an invoice, it asks for the client’s data  and in case of being PO enter the supplier’s data.
+Then the program asks to enter up to 10 items (may be less) with description and its value
+
+At the end it calculates the net, GST, PST and finally shows on screen all the data of the invoice (or PO). One thing per line:
+Invoice Number (PO)
+Customer number (Supplier)
+Customer name (Supplier)
+————————
+Items with the value of each
+———————- 
+Net
+GST
+PST
+Total  ---> [invoiceAndPurchaseOrders.py](invoiceAndPurchaseOrders.py)
