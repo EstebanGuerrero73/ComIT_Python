@@ -10,3 +10,10 @@ The class should keep the title of the book, author, number of copies of the boo
 · Methods for modifying and querying (set / get) the attributes of the class. 
 · Methods for increasing and decreasing the values ​​of each of the position coordinates (incX, incY, decX, decY). 
 · A method for setting coordinate values ​​(setXY). ---> [coord_xy_class.py](coord_xy_class.py)
+
+(**) Create a class called Password with the following conditions:
+It has the length and password attributes. By default, the length will be 8. The constructors will be as follows: A default constructor. A constructor with the length that we send as parameter. Generate a random password with that length. The methods you implement will be: isStrong (): return a boolean if it is strong or not, to be strong you must have more than 2 uppercase, more than 1 lower case and more than 5 numbers. GeneratePassword (): Generates the password of the object with the defined length. Get method for password and length. Set method for length. 
+Now let’s create an executable class:
+Create an array of Passwords with the size that you indicate by keyboard. Create a loop that creates an object for each position in the array. It also indicates by keyboard the length of the Passwords (before loop). Create another array of booleans where we store if the password of the password array is strong or not (use the previous loop). 
+At the end, we show the password and whether or not it is strong (use the previous loop). Use this simple format: password1 boolean_value1
+password2 boolean_value2. ---> [passwordClass](passwordClass)
