@@ -33,3 +33,15 @@ GST
 PST
 Total  
 ---> [invoiceAndPurchaseOrders.py](invoiceAndPurchaseOrders.py)
+
+(**) (Poll.py) A survey was carried out to 15 students in a University where the following information was requested: Photo ID #, SEX, SALARY, JOB.
+• PHOTO ID # (It's an integer)
+• SEX (1 - Male 2 - Female)
+• JOB (1 - If you work 2 - Do not work)
+• SALARY (An integer value)
+Write the algorithm that allows reading and storing the requested data in vectors, then calculate and print:
+• Percentage of men in the university
+• Percentage of women in the university
+• Percentage of men who work and average salary
+• Percentage of working women and average salary
+---> [poll.py](poll.py)
